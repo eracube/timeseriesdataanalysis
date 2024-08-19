@@ -2,8 +2,6 @@
 
 Project Overview
 -
-This Jupyter Notebook provides an end-to-end pipeline for forecasting energy consumption using time series data. The project leverages LightGBM, a gradient boosting framework, to build an accurate and efficient forecasting model. The notebook includes data loading, preprocessing, feature engineering, model training, evaluation, and visualization.
-
 Accurate energy consumption forecasting is essential for power grid management, energy trading, and optimizing resource allocation. This notebook demonstrates how to apply LightGBM for time series forecasting, focusing on energy consumption data. The project includes steps for data exploration, feature creation, and model evaluation to ensure reliable predictions.
 
 Requirements
