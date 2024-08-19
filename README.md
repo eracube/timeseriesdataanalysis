@@ -20,9 +20,7 @@ Before running the notebook, ensure you have the following Python packages insta
 
 Install the required packages using the following command:
 
-`bash
-Copy code
-pip install pandas numpy matplotlib seaborn xgboost scikit-learn jupyter`
+`pip install pandas numpy matplotlib seaborn xgboost scikit-learn jupyter`
 
 Dataset
 -
